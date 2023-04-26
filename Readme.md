@@ -4,7 +4,7 @@ To Deploy HTML based static website on Amazon EC2 instance and configure logging
 Pre-Requisites :
 An AWS account to create infrastructure resources on AWS cloud.
 
-Source Code for website downloaded frm https://github.com/azeezsalu/techmax
+Source Code for website Design downloaded frm https://github.com/azeezsalu/techmax
 
 Pre-Deployment :
 Customize the application dependencies mentioned below on AWS EC2 instance and create the Golden AMI.
